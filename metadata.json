@@ -1,0 +1,7 @@
+{
+  "name": "POLYGLOT TALK",
+  "description": "A conversational voice app for learning languages with an AI-tutor based on Gemini. Get real-time feedback, post-session scoring, and track your progress over time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
